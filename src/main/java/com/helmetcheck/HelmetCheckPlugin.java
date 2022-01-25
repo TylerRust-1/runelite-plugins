@@ -14,7 +14,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Example"
+	name = "Helmet Check Test plugin"
 )
 public class HelmetCheckPlugin extends Plugin
 {
