@@ -1,2 +1,2 @@
 # Example
-An example greeter plugin
+This repository contains strrules105's Runelite plugin. Each plugin is on a different branch.
