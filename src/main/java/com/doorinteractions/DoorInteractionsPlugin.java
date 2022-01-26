@@ -50,6 +50,7 @@ public class DoorInteractionsPlugin extends Plugin
 		log.info("Client stopped!");
 	}
 
+	/*
 	//Used by onChatMessage to parse string, if int, try to emote.
 	public static boolean isInteger(String str) {
 		if (str == null) {
@@ -88,6 +89,7 @@ public class DoorInteractionsPlugin extends Plugin
 			player.setActionFrame(0);
 		}
 	}
+	 */
 
 	@Subscribe
 	public void onMenuOptionClicked(MenuOptionClicked choice){
