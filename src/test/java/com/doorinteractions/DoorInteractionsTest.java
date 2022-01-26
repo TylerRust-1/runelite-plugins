@@ -1,13 +1,13 @@
-package com.helmetcheck;
+package com.doorinteractions;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class HelmetCheckTest
+public class DoorInteractionsTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(HelmetCheckPlugin.class);
+		ExternalPluginManager.loadBuiltin(DoorInteractionsPlugin.class);
 		RuneLite.main(args);
 	}
 }
